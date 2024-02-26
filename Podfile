@@ -8,8 +8,6 @@ target 'XcodeBenchmark' do
   inhibit_all_warnings!
   
   # Firebase
-  pod 'FirebaseCore', :git => 'https://github.com/firebase/firebase-ios-sdk.git', :branch => 'master'
-  pod 'FirebaseFirestore', :git => 'https://github.com/firebase/firebase-ios-sdk.git', :branch => 'master'
   pod 'FirebaseAuth'
   pod 'FirebaseAnalytics'
   pod 'FirebaseRemoteConfig'
@@ -35,8 +33,6 @@ target 'XcodeBenchmark' do
   # Core
   pod 'SwiftyJSON'
   pod 'Realm'
-  pod 'MagicalRecord', :git => 'https://github.com/magicalpanda/MagicalRecord'
-  pod 'RxBluetoothKit', :git => 'https://github.com/i-mobility/RxBluetoothKit.git', :tag => '7.0.4'
   pod 'ReactiveCocoa'
   pod 'CryptoSwift'
   pod 'R.swift.Library'
