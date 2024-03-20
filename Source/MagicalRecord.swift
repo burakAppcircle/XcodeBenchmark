@@ -5,8 +5,8 @@
 // Created on 18.08.2020.
 //
 
-import MagicalRecord
+//import MagicalRecord
 
-public func makeMagicalRecord() -> MagicalRecord {
-    MagicalRecord()
-}
+//public func makeMagicalRecord() -> MagicalRecord {
+    //MagicalRecord()
+//}
