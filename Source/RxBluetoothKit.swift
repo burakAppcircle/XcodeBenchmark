@@ -5,11 +5,11 @@
 // Created on 18.08.2020.
 //
 
-import RxBluetoothKit
+//import RxBluetoothKit
 
-extension CentralManager: CustomStringConvertible {
+//extension CentralManager: CustomStringConvertible {
     
-    public var description: String {
-        "Custom description"
-    }
-}
+    //public var description: String {
+        //"Custom description"
+    //}
+//}
